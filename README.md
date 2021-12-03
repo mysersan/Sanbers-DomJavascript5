@@ -1,4 +1,4 @@
-# Sanbers-DomJavascript5-
+# Sanbers-DomJavascript5
 Hari 5 – DOM Javascript
 
 Target Pembelajaran
@@ -6,7 +6,7 @@ Target Pembelajaran
     Mengerti tentang Selektor pada DOM
     Mengerti dan mengaplikasikan event pada DOM
 
-
+# SOAL
 ![Screenshot 2021-12-03 at 20-41-54 SanberCode Member Directory](https://user-images.githubusercontent.com/60083537/144612211-07832f59-eee9-4f35-b086-a358cd9343da.png)
 
 
